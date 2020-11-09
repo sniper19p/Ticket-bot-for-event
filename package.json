@@ -1,0 +1,26 @@
+{
+  "name": "Stars",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "run": "!node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "stat",
+    "discord",
+    "serendia",
+    "squad",
+    "Alosha"
+  ],
+  "author": "master kenobi ",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "moment": "^2.29.0",
+    "ms": "^2.1.2",
+    "quick.db": "^7.1.2"
+  }
+}
